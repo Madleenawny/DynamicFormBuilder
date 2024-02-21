@@ -1,0 +1,17 @@
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\bin\Debug\NewTestWithDB.exe.config
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\bin\Debug\NewTestWithDB.exe
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\bin\Debug\NewTestWithDB.pdb
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\bin\Debug\DevComponents.Charts.Design.dll
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\obj\Debug\CreationForms.csproj.AssemblyReference.cache
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\obj\Debug\NewTestWithDB.CreateForm.resources
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\obj\Debug\NewTestWithDB.Form1.resources
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\obj\Debug\NewTestWithDB.Forms.resources
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\obj\Debug\NewTestWithDB.Properties.Resources.resources
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\obj\Debug\CreationForms.csproj.GenerateResource.cache
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\obj\Debug\CreationForms.csproj.CoreCompileInputs.cache
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\obj\Debug\CreationForms.csproj.CopyComplete
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\obj\Debug\NewTestWithDB.exe
+C:\Users\XPRISTO\source\repos\NewTestWithDB\NewTestWithDB\obj\Debug\NewTestWithDB.pdb
